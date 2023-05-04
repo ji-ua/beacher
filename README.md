@@ -9,6 +9,8 @@ Detecting the build tools in use.
 
 ![beacher_logo](https://github.com/tamadalab/beacher/blob/main/images/logo.svg)
 
+This tool tells you the build tool (like a teacher). -> beacher(Build tool tEACHER)
+
 ## :speaking_head: Description
 
 This tool aims to detect the build tools in use for the project for surveying the share of the build tools.
