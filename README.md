@@ -4,7 +4,6 @@
 [![License](https://img.shields.io/badge/License-Apache2.0-green)](https://github.com/tamadalablab/beacher/blob/main/LICENSE)
 [![Docker](https://img.shields.io/badge/Docker-v1.1.0-green?logo=docker)](https://github.com/tamadalab/beacher/pkgs/container/beacher/)
 
-
 Detecting the build tools in use.
 
 ![beacher_logo](https://github.com/tamadalab/beacher/blob/main/images/logo.svg)
@@ -82,7 +81,6 @@ docker run --rm -it -v $PWD:/home/beacher ghcr.io/tamadalab/beacher:latest .
 * Container OS
   * Working directory: `/home/beacher`
   * user: `beacher`
-
 
 ## :hammer_and_wrench: Related Tools
 
