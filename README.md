@@ -80,8 +80,8 @@ docker run --rm -it -v $PWD:/home/beacher ghcr.io/tamadalab/beacher:latest .
 ```
 
 * Container OS
-    * Working directory: `/home/beacher`
-    * user: `beacher`
+  * Working directory: `/home/beacher`
+  * user: `beacher`
 
 
 ## :hammer_and_wrench: Related Tools
